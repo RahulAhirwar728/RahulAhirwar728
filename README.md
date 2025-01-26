@@ -1,7 +1,7 @@
 - 👋 Hi, there myself @RahulAhirwar728
 - 👀 I’m interested in Data Science.
 
-- 💞️ I’m looking to collaborate on new projects Data science and Machine Learning
+- 💞️ I’m looking to collaborate on new projects in Data science and Machine Learning
 - 📫 How to reach me ...via email 
 
 
